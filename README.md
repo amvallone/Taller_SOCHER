@@ -1,2 +1,2 @@
 # Taller_SOCHER
-Taller SOCHER
+Taller SOCHER 2026
